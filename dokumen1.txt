@@ -1,0 +1,2 @@
+ini dokumen 1
+untuk upload git
